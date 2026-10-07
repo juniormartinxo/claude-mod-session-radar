@@ -1,0 +1,6 @@
+{
+  "name": "session-radar",
+  "version": "0.1.0",
+  "description": "Painel ao vivo com todas as sessões do Claude Code rodando nesta máquina",
+  "types": "./types/index.d.ts"
+}
